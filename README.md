@@ -1,5 +1,5 @@
 <p align="center">
-  <b>🇺🇸 English</b> &nbsp;|&nbsp; <a href="https://github.com/lorenzomarcal/lorenzomarcal/blob/main/README.pt-BR.md?plain=0">🇧🇷 Português</a>
+  <b>🇺🇸 English</b> &nbsp;|&nbsp; <a href="https://github.com/lorenzomarcal/lorenzomarcal/tree/main/pt-BR">🇧🇷 Português</a>
 </p>
 
 <!-- ===================== HEADER ===================== -->

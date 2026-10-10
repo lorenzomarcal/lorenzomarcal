@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="640" alt="Terminal animado mostrando a stack de back-end do Lorenzo" />
+  <img src="../assets/terminal.svg" width="640" alt="Terminal animado mostrando a stack de back-end do Lorenzo" />
 </p>
 
 <br/>
