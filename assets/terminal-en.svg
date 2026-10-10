@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="640" height="364" viewBox="0 0 640 364">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111C33"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#06B6D4"/></linearGradient></defs>
+<style>text{font-family:'Fira Code','Courier New',Courier,monospace;font-size:15px;white-space:pre}.p{fill:#34D399;font-weight:bold}.c{fill:#F8FAFC}</style>
+<rect x="1.5" y="1.5" width="637" height="361" rx="12" fill="url(#bg)" stroke="url(#glow)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="1.5" y="1.5" width="637" height="36" rx="12" fill="#1E293B"/><rect x="1.5" y="26" width="637" height="12" fill="#1E293B"/>
+<circle cx="24" cy="20" r="6" fill="#FF5F56"/>
+<circle cx="44" cy="20" r="6" fill="#FFBD2E"/>
+<circle cx="64" cy="20" r="6" fill="#27C93F"/>
+<text x="320.0" y="25" text-anchor="middle" style="font-size:13px" fill="#94A3B8">lorenzo@backend: ~/career</text>
+<clipPath id="c0"><rect x="42.0" y="57" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.0312;0.0762;0.8625;1" values="0;0;76.0;76.0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0219;0.8625" values="0;1;0"/><text x="24" y="74" class="p">$</text><text x="42.0" y="74" class="c" clip-path="url(#c0)">whoami</text></g>
+<text x="24" y="100" fill="#E2E8F0" opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0981;0.8625" values="0;1;0"/>lorenzo_marcal  ~  aspiring back-end dev</text>
+<clipPath id="c2"><rect x="42.0" y="109" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.1356;0.2112;0.8625;1" values="0;0;139.0;139.0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1263;0.8625" values="0;1;0"/><text x="24" y="126" class="p">$</text><text x="42.0" y="126" class="c" clip-path="url(#c2)">cat stack.txt</text></g>
+<text x="24" y="152" fill="#FBBF24" opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2331;0.8625" values="0;1;0"/>python | javascript | postgresql | docker | api</text>
+<clipPath id="c4"><rect x="42.0" y="161" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2706;0.3769;0.8625;1" values="0;0;202.0;202.0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2612;0.8625" values="0;1;0"/><text x="24" y="178" class="p">$</text><text x="42.0" y="178" class="c" clip-path="url(#c4)">docker compose up -d</text></g>
+<text x="24" y="204" fill="#94A3B8" opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3988;0.8625" values="0;1;0"/>[+] Running 2/2</text>
+<text x="24" y="230" fill="#34D399" opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4144;0.8625" values="0;1;0"/>  ✔ Container api       Started</text>
+<text x="24" y="256" fill="#34D399" opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.43;0.8625" values="0;1;0"/>  ✔ Container postgres  Started</text>
+<clipPath id="c8"><rect x="42.0" y="265" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.4675;0.6;0.8625;1" values="0;0;256.0;256.0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4581;0.8625" values="0;1;0"/><text x="24" y="282" class="p">$</text><text x="42.0" y="282" class="c" clip-path="url(#c8)">curl localhost:8000/status</text></g>
+<text x="24" y="308" fill="#60A5FA" opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6219;0.8625" values="0;1;0"/>{&quot;status&quot;:&quot;learning&quot;,&quot;focus&quot;:&quot;back-end&quot;,&quot;give_up&quot;:false}</text>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6594;0.8625" values="0;1;0"/><text x="24" y="334" class="p">$</text><rect x="42.0" y="320" width="9" height="18" fill="#34D399"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
