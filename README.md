@@ -31,7 +31,7 @@ class Lorenzo:
     def __init__(self):
         self.nome      = "Lorenzo Marçal"
         self.papel     = "Estudante de Back-end"
-        self.local     = "Brasil 🇧🇷"
+        self.local     = "Guarulhos-SP, Brasil"
         self.estudando = ["Python", "JavaScript", "PostgreSQL", "Docker",
                           "APIs REST", "Segurança", "Automação", "IA"]
         self.negocio   = "Crio sites para negócios locais"
@@ -130,16 +130,7 @@ class Lorenzo:
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lorenzomarcal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=60A5FA&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomarcal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=lorenzomarcal&theme=tokyonight&hide_border=true&background=0B1120&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzomarcal&bg_color=0B1120&color=94A3B8&line=3B82F6&point=60A5FA&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de contribuições" />
 </p>
 
 <p align="center">
