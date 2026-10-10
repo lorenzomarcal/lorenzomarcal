@@ -1,9 +1,15 @@
-<h1 align="center">Olá, eu sou o Lorenzo Marçal 👋</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=230&section=header&text=Lorenzo%20Mar%C3%A7al&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Futuro%20Desenvolvedor%20Back-end&descSize=20&descAlignY=56" alt="Lorenzo Marçal - Futuro Desenvolvedor Back-end" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Futuro+Desenvolvedor+Back-end;Python+%7C+JavaScript+%7C+Docker+%7C+PostgreSQL;APIs%2C+Seguran%C3%A7a%2C+Automa%C3%A7%C3%A3o+e+IA;Aprendendo+algo+novo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lorenzo+%F0%9F%91%8B;Python+%7C+JavaScript+%7C+Docker+%7C+PostgreSQL;APIs%2C+Seguran%C3%A7a%2C+Automa%C3%A7%C3%A3o+e+IA;Aprendendo+algo+novo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal animado mostrando a stack de back-end do Lorenzo" />
 </p>
 
 <p align="center">
@@ -101,6 +107,15 @@
   <img src="https://streak-stats.demolab.com?user=Lorenzomarcal-creator&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lorenzomarcal-creator/Lorenzomarcal-creator/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lorenzomarcal-creator/Lorenzomarcal-creator/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Lorenzomarcal-creator/Lorenzomarcal-creator/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+
 ---
 
 ## 🤝 Vamos conversar?
@@ -114,3 +129,5 @@ Estou aberto a trocar ideias, colaborar em projetos e conversar sobre back-end, 
 </p>
 
 <p align="center"><i>"Todo especialista já foi um iniciante."</i> 💙</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" alt="" />
