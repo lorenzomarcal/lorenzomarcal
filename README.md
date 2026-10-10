@@ -1,133 +1,169 @@
+<!-- ===================== CABEÇALHO ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=230&section=header&text=Lorenzo%20Mar%C3%A7al&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Futuro%20Desenvolvedor%20Back-end&descSize=20&descAlignY=56" alt="Lorenzo Marçal - Futuro Desenvolvedor Back-end" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:1E3A8A,100:3B82F6&height=240&section=header&text=Lorenzo%20Mar%C3%A7al&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudante%20de%20Back-end%20%E2%80%A2%20Python%20%E2%80%A2%20APIs%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=57" alt="Lorenzo Marçal — Estudante de Back-end" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lorenzo+%F0%9F%91%8B;Python+%7C+JavaScript+%7C+Docker+%7C+PostgreSQL;APIs%2C+Seguran%C3%A7a%2C+Automa%C3%A7%C3%A3o+e+IA;Aprendendo+algo+novo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://github.com/lorenzomarcal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Lorenzo+%F0%9F%91%8B;Construindo+minha+carreira+no+back-end;Python+%E2%80%A2+JavaScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;APIs%2C+seguran%C3%A7a%2C+automa%C3%A7%C3%A3o+e+IA;Um+commit+por+dia+%F0%9F%9A%80" alt="Apresentação animada" />
   </a>
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal animado mostrando a stack de back-end do Lorenzo" />
+  <a href="mailto:lorenzomaarcal03@gmail.com"><img src="https://img.shields.io/badge/E--mail-lorenzomaarcal03%40gmail.com-0B1120?style=for-the-badge&logo=gmail&logoColor=60A5FA&labelColor=1E3A8A" alt="E-mail" /></a>
+  <a href="https://github.com/lorenzomarcal"><img src="https://img.shields.io/github/followers/lorenzomarcal?style=for-the-badge&logo=github&logoColor=60A5FA&label=Seguidores&labelColor=1E3A8A&color=0B1120" alt="Seguidores no GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lorenzomarcal&style=for-the-badge&color=0B1120&label=VISITAS" alt="Visitas no perfil" />
 </p>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lorenzomarcal-creator&color=3B82F6&style=flat&label=Visitas+no+perfil" alt="Visitas no perfil" />
+  <img src="./assets/terminal.svg" width="640" alt="Terminal animado mostrando a stack de back-end do Lorenzo" />
 </p>
 
----
+<br/>
 
+<!-- ===================== SOBRE MIM ===================== -->
 ## 🧑‍💻 Sobre mim
 
-- 🎯 Estou construindo minha carreira como **desenvolvedor back-end**
-- 📚 Estudando hoje: **Python, JavaScript, Docker, PostgreSQL, APIs, Segurança, Automação e Inteligência Artificial**
-- 💼 Empreendedor: crio **sites para negócios locais** e desenvolvo ferramentas para automatizar vendas
-- 🌱 Acredito em aprender construindo — cada projeto aqui é um passo da minha jornada
-- 📍 Brasil 🇧🇷
+```python
+class Lorenzo:
+    def __init__(self):
+        self.nome      = "Lorenzo Marçal"
+        self.papel     = "Estudante de Back-end"
+        self.local     = "Brasil 🇧🇷"
+        self.estudando = ["Python", "JavaScript", "PostgreSQL", "Docker",
+                          "APIs REST", "Segurança", "Automação", "IA"]
+        self.negocio   = "Crio sites para negócios locais"
+        self.objetivo  = "Construir sistemas back-end seguros e escaláveis"
 
----
+    def lema(self):
+        return "Aprender construindo — um projeto de cada vez."
+```
 
-## 🛠️ Tecnologias e ferramentas
+- 🎯 **Foco atual:** dominar o back-end com **Python**, criando APIs com banco de dados **PostgreSQL** rodando em **Docker**
+- 💼 **Na prática:** já entrego **sites para negócios locais** (academia, clínica odontológica, revenda de veículos, impressão 3D)
+- ⚙️ **Interesse especial:** automação de processos e **inteligência artificial** aplicada a sistemas
+- 📫 **Fale comigo:** [lorenzomaarcal03@gmail.com](mailto:lorenzomaarcal03@gmail.com)
 
-### Linguagens
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+<br/>
 
-### Back-end e APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-</p>
+<!-- ===================== TECNOLOGIAS ===================== -->
+## 🛠️ Stack
 
-### Banco de dados e infraestrutura
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Back-end & APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman&theme=dark" alt="FastAPI, Node.js, Express, Postman" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Banco de dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode&theme=dark" alt="Docker, Linux, Git, GitHub, GitHub Actions, VS Code" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Front-end (sites)</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Next.js, React, Tailwind" /></td>
+  </tr>
+</table>
 
-### Automação, IA e segurança
-<p>
-  <img src="https://img.shields.io/badge/Automação-412991?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automação" />
-  <img src="https://img.shields.io/badge/Inteligência_Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
-  <img src="https://img.shields.io/badge/Segurança-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Segurança" />
-</p>
+<br/>
 
-### Front-end (para os sites que entrego)
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
+<!-- ===================== TRILHA ===================== -->
+## 🗺️ Trilha de estudos
 
----
+> Minha rota para virar dev back-end. Atualizo conforme avanço — ✅ concluído · 🟡 em andamento · 🔵 estudando · ⚪ próximo
 
-## 🗺️ Minha trilha de estudos (back-end)
+| | Etapa | O que estou aprendendo | Status |
+|:-:|---|---|:-:|
+| 🐍 | **Python** | Lógica, funções, POO, ambientes virtuais | 🟡 |
+| 🟨 | **JavaScript** | Fundamentos, assíncrono, Node.js | 🟡 |
+| 🌿 | **Git & GitHub** | Commits, branches, pull requests | 🟡 |
+| 🐘 | **PostgreSQL** | Modelagem, SQL, relacionamentos, índices | 🔵 |
+| 🔌 | **APIs REST** | FastAPI, rotas, validação, documentação | 🔵 |
+| 🐳 | **Docker** | Imagens, containers, Docker Compose | 🔵 |
+| 🔐 | **Segurança** | Autenticação, JWT, hash de senhas, OWASP Top 10 | 🔵 |
+| ⚙️ | **Automação** | Scripts, integrações, tarefas agendadas | 🔵 |
+| 🤖 | **IA** | APIs de LLM e IA aplicada ao back-end | 🔵 |
+| 🚀 | **Deploy & CI/CD** | Testes automatizados, GitHub Actions, nuvem | ⚪ |
 
-| Etapa | Tema | Status |
-|:---:|---|:---:|
-| 1 | Lógica de programação com **Python** | 🟡 Em andamento |
-| 2 | **JavaScript** e Node.js | 🟡 Em andamento |
-| 3 | Git e GitHub | 🟡 Em andamento |
-| 4 | Banco de dados relacional com **PostgreSQL** | 🔵 Estudando |
-| 5 | Construção de **APIs REST** (FastAPI / Express) | 🔵 Estudando |
-| 6 | Containers com **Docker** | 🔵 Estudando |
-| 7 | **Segurança**: autenticação, JWT, OWASP Top 10 | 🔵 Estudando |
-| 8 | **Automação** de tarefas e integrações | 🔵 Estudando |
-| 9 | **Inteligência Artificial** aplicada ao back-end | 🔵 Estudando |
-| 10 | Deploy, CI/CD e testes automatizados | ⚪ Próximo passo |
+<br/>
 
----
-
+<!-- ===================== PROJETOS ===================== -->
 ## 🚀 Projetos
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **Vexora Revenue Intelligence** 🔒 | Sistema de busca e qualificação de leads para automatizar vendas | Automação, IA |
-| **Sites para negócios locais** | Sites institucionais para academia, clínica odontológica, revenda de veículos e impressão 3D | HTML, CSS, JavaScript, Next.js |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Sites para negócios locais</h3>
+      <p>Sites institucionais sob medida para pequenos negócios: academia, clínica odontológica, revenda de veículos e impressão 3D.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔨 Próximo: API com Python</h3>
+      <p>Uma API REST completa com autenticação, banco de dados e containers — o projeto que junta tudo o que estou estudando.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-> 🔨 Novos projetos de back-end (APIs, bancos de dados e automações) chegando em breve!
+<br/>
 
----
-
-## 📊 Estatísticas no GitHub
+<!-- ===================== ESTATÍSTICAS ===================== -->
+## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lorenzomarcal-creator&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzomarcal-creator&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lorenzomarcal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=60A5FA&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomarcal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lorenzomarcal-creator&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=lorenzomarcal&theme=tokyonight&hide_border=true&background=0B1120&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzomarcal&bg_color=0B1120&color=94A3B8&line=3B82F6&point=60A5FA&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de contribuições" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lorenzomarcal-creator/Lorenzomarcal-creator/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lorenzomarcal-creator/Lorenzomarcal-creator/output/github-snake.svg" />
-    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Lorenzomarcal-creator/Lorenzomarcal-creator/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorenzomarcal/lorenzomarcal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorenzomarcal/lorenzomarcal/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/lorenzomarcal/lorenzomarcal/output/github-snake-dark.svg" />
   </picture>
 </p>
 
+<br/>
 
----
-
+<!-- ===================== CONTATO ===================== -->
 ## 🤝 Vamos conversar?
 
-Estou aberto a trocar ideias, colaborar em projetos e conversar sobre back-end, automação e IA.
+<p align="center">
+  Estou aberto a trocar ideias, colaborar em projetos e conversar sobre <b>back-end</b>, <b>automação</b> e <b>IA</b>.
+</p>
 
 <p align="center">
-  <a href="https://github.com/Lorenzomarcal-creator">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:lorenzomaarcal03@gmail.com"><img src="https://img.shields.io/badge/Mande_um_e--mail-0B1120?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Mande um e-mail" /></a>
+  <a href="https://github.com/lorenzomarcal?tab=repositories"><img src="https://img.shields.io/badge/Veja_meus_projetos-0B1120?style=for-the-badge&logo=github&logoColor=60A5FA" alt="Veja meus projetos" /></a>
 </p>
 
 <p align="center"><i>"Todo especialista já foi um iniciante."</i> 💙</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,55:1E3A8A,100:0B1120&height=120&section=footer" alt="" />
