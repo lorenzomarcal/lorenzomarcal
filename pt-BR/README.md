@@ -118,18 +118,6 @@ class Lorenzo:
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🔨 Próximo: API com Python</h3>
-      <p>Uma API REST completa com autenticação, banco de dados e containers — o projeto que junta tudo o que estou estudando.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 <br/>
