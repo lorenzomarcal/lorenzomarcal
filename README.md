@@ -101,7 +101,7 @@ class Lorenzo:
   <tr>
     <td width="50%" valign="top">
       <h3>💰 <a href="https://github.com/lorenzomarcal/FinanceApp">FinanceApp</a></h3>
-      <p>A personal finance organizer built with Flask — my first full back-end project, from routes to data.</p>
+      <p>Personal finance tracker with an investment portfolio and real-time B3 (Brazilian stock exchange) quotes — my first full back-end project.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />

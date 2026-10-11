@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Status bar: online, all checks passed" width="1200" height="64" viewBox="0 0 1200 64">
+  <title>Status bar: online, all checks passed</title>
   <defs>
     <style>
       .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,Menlo,monospace; }

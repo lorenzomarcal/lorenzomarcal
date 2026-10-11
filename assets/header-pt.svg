@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Lorenzo Marçal — dev back-end em formação" width="1200" height="360" viewBox="0 0 1200 360">
+  <title>Lorenzo Marçal — dev back-end em formação</title>
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.1" fill="#1E293B"/>
@@ -94,13 +95,13 @@
 
     <!-- packets -->
     <circle r="4" fill="#60A5FA">
-      <animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion>
+      <animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#p1" xlink:href="#p1"/></animateMotion>
     </circle>
     <circle r="4" fill="#4ADE80">
-      <animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p1"/></animateMotion>
+      <animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p1" xlink:href="#p1"/></animateMotion>
     </circle>
     <circle r="4" fill="#60A5FA">
-      <animateMotion dur="1.2s" begin="0.4s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion>
+      <animateMotion dur="1.2s" begin="0.4s" repeatCount="indefinite"><mpath href="#p2" xlink:href="#p2"/></animateMotion>
     </circle>
   </g>
 
