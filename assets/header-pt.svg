@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1E293B"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,Menlo,monospace; }
+      .sans { font-family: 'Segoe UI',Inter,Helvetica,Arial,sans-serif; }
+      .fade { opacity: 0; animation: in .7s ease-out forwards; }
+      .d1 { animation-delay: .2s; } .d2 { animation-delay: .6s; } .d3 { animation-delay: 1s; }
+      .d4 { animation-delay: 1.4s; } .d5 { animation-delay: 1.8s; } .d6 { animation-delay: 2.2s; }
+      @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+      .flow { stroke-dasharray: 4 6; animation: dash 1.2s linear infinite; }
+      @keyframes dash { to { stroke-dashoffset: -20; } }
+    </style>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="#0B1120" stroke="#1E293B" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#glow)"/>
+
+  <!-- request line -->
+  <g class="mono fade d1" font-size="15">
+    <rect x="40" y="34" width="52" height="24" rx="5" fill="#1E3A8A"/>
+    <text x="66" y="51" fill="#93C5FD" text-anchor="middle" font-weight="700">GET</text>
+    <text x="104" y="51" fill="#CBD5E1">/api/v1/devs/<tspan fill="#60A5FA">lorenzo</tspan></text>
+    <text x="440" y="51" fill="#475569">→</text>
+    <circle class="pulse" cx="470" cy="46" r="5" fill="#22C55E"/>
+    <text x="484" y="51" fill="#4ADE80" font-weight="700">200 OK</text>
+    <text x="552" y="51" fill="#475569">· 12ms</text>
+  </g>
+
+  <!-- name -->
+  <text class="sans fade d2" x="40" y="148" font-size="64" font-weight="800" fill="url(#nameGrad)" letter-spacing="-1.5">Lorenzo Marçal</text>
+  <text class="mono fade d3" x="42" y="190" font-size="20" fill="#94A3B8">dev back-end <tspan fill="#475569">//</tspan> <tspan fill="#60A5FA">em formação</tspan><tspan class="cursor" fill="#60A5FA" font-weight="700">_</tspan></text>
+
+  <!-- tags -->
+  <g class="mono fade d4" font-size="14" font-weight="600">
+    <rect x="40" y="226" width="86" height="30" rx="15" fill="none" stroke="#3B82F6"/>
+    <text x="83" y="246" text-anchor="middle" fill="#93C5FD">Python</text>
+    <rect x="136" y="226" width="62" height="30" rx="15" fill="none" stroke="#3B82F6"/>
+    <text x="167" y="246" text-anchor="middle" fill="#93C5FD">APIs</text>
+    <rect x="208" y="226" width="110" height="30" rx="15" fill="none" stroke="#3B82F6"/>
+    <text x="263" y="246" text-anchor="middle" fill="#93C5FD">PostgreSQL</text>
+    <rect x="328" y="226" width="80" height="30" rx="15" fill="none" stroke="#3B82F6"/>
+    <text x="368" y="246" text-anchor="middle" fill="#93C5FD">Docker</text>
+    <rect x="418" y="226" width="118" height="30" rx="15" fill="none" stroke="#3B82F6"/>
+    <text x="477" y="246" text-anchor="middle" fill="#93C5FD">Automação</text>
+    <rect x="546" y="226" width="44" height="30" rx="15" fill="none" stroke="#3B82F6"/>
+    <text x="568" y="246" text-anchor="middle" fill="#93C5FD">IA</text>
+  </g>
+
+  <text class="mono fade d5" x="42" y="310" font-size="14" fill="#475569">Guarulhos-SP, Brasil  ·  um commit de cada vez</text>
+
+  <!-- architecture diagram -->
+  <g class="fade d5">
+    <!-- docker boundary -->
+    <rect x="966" y="70" width="194" height="250" rx="14" fill="none" stroke="#1E3A8A" stroke-dasharray="6 6"/>
+    <text class="mono" x="980" y="96" font-size="12" fill="#3B82F6">docker compose up</text>
+
+    <!-- connections -->
+    <path id="p1" d="M 900 168 L 990 168" stroke="#3B82F6" stroke-width="2" fill="none" class="flow"/>
+    <path id="p2" d="M 1062 200 L 1062 240" stroke="#3B82F6" stroke-width="2" fill="none" class="flow"/>
+    
+    <!-- client -->
+    <g class="mono">
+      <rect x="800" y="140" width="100" height="56" rx="10" fill="#0F172A" stroke="#334155"/>
+      <text x="850" y="165" font-size="13" text-anchor="middle" fill="#E2E8F0">cliente</text>
+      <text x="850" y="183" font-size="11" text-anchor="middle" fill="#64748B">HTTP / JSON</text>
+
+      <!-- api -->
+      <rect x="990" y="136" width="144" height="64" rx="10" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+      <text x="1062" y="163" font-size="14" text-anchor="middle" fill="#93C5FD" font-weight="700">API</text>
+      <text x="1062" y="182" font-size="11" text-anchor="middle" fill="#64748B">Python · FastAPI · JWT</text>
+
+      <!-- db -->
+      <ellipse cx="1062" cy="250" rx="58" ry="11" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+      <path d="M 1004 250 L 1004 286 A 58 11 0 0 0 1120 286 L 1120 250" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+      <text x="1062" y="281" font-size="12" text-anchor="middle" fill="#93C5FD" font-weight="700">PostgreSQL</text>
+    </g>
+
+    <!-- packets -->
+    <circle r="4" fill="#60A5FA">
+      <animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion>
+    </circle>
+    <circle r="4" fill="#4ADE80">
+      <animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p1"/></animateMotion>
+    </circle>
+    <circle r="4" fill="#60A5FA">
+      <animateMotion dur="1.2s" begin="0.4s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion>
+    </circle>
+  </g>
+
+  <!-- uptime ticks -->
+  <g class="fade d6">
+    <text class="mono" x="800" y="236" font-size="11" fill="#475569">uptime</text>
+    <g fill="#22C55E">
+      <rect x="850" y="227" width="5" height="12" rx="1"/><rect x="858" y="227" width="5" height="12" rx="1"/>
+      <rect x="866" y="227" width="5" height="12" rx="1"/><rect x="874" y="227" width="5" height="12" rx="1"/>
+      <rect x="882" y="227" width="5" height="12" rx="1"/><rect x="890" y="227" width="5" height="12" rx="1"/>
+      <rect x="898" y="227" width="5" height="12" rx="1"/><rect x="906" y="227" width="5" height="12" rx="1"/>
+      <rect x="914" y="227" width="5" height="12" rx="1"/><rect x="922" y="227" width="5" height="12" rx="1"/>
+      <rect x="930" y="227" width="5" height="12" rx="1"/><rect x="938" y="227" width="5" height="12" rx="1"/>
+      <rect class="pulse" x="946" y="227" width="5" height="12" rx="1"/>
+    </g>
+  </g>
+</svg>

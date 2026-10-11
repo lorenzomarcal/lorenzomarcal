@@ -4,13 +4,7 @@
 
 <!-- ===================== CABEÇALHO ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:1E3A8A,100:3B82F6&height=240&section=header&text=Lorenzo%20Mar%C3%A7al&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudante%20de%20Back-end%20%E2%80%A2%20Python%20%E2%80%A2%20APIs%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=57" alt="Lorenzo Marçal — Estudante de Back-end" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/lorenzomarcal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Lorenzo+%F0%9F%91%8B;Construindo+minha+carreira+no+back-end;Python+%E2%80%A2+JavaScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;APIs%2C+seguran%C3%A7a%2C+automa%C3%A7%C3%A3o+e+IA;Um+commit+por+dia+%F0%9F%9A%80" alt="Apresentação animada" />
-  </a>
+  <img width="100%" src="../assets/header-pt.svg" alt="GET /api/v1/devs/lorenzo → 200 OK — Lorenzo Marçal, dev back-end em formação" />
 </p>
 
 <p align="center">
@@ -62,7 +56,7 @@ class Lorenzo:
   </tr>
   <tr>
     <td align="center"><b>Back-end & APIs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman&theme=dark" alt="FastAPI, Node.js, Express, Postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,postman&theme=dark" alt="Flask, FastAPI, Node.js, Express, Postman" /></td>
   </tr>
   <tr>
     <td align="center"><b>Banco de dados</b></td>
@@ -106,6 +100,14 @@ class Lorenzo:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/lorenzomarcal/FinanceApp">FinanceApp</a></h3>
+      <p>Organizador financeiro pessoal feito com Flask — meu primeiro projeto back-end completo, das rotas aos dados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 Sites para negócios locais</h3>
       <p>Sites institucionais sob medida para pequenos negócios: academia, clínica odontológica, revenda de veículos e impressão 3D.</p>
       <p>
@@ -115,7 +117,9 @@ class Lorenzo:
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🔨 Próximo: API com Python</h3>
       <p>Uma API REST completa com autenticação, banco de dados e containers — o projeto que junta tudo o que estou estudando.</p>
       <p>
@@ -161,4 +165,7 @@ class Lorenzo:
 
 <p align="center"><i>"Todo especialista já foi um iniciante."</i> 💙</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,55:1E3A8A,100:0B1120&height=120&section=footer" alt="" />
+<!-- ===================== RODAPÉ ===================== -->
+<p align="center">
+  <img width="100%" src="../assets/footer-pt.svg" alt="Status: online · git:(main) · todos os checks passaram" />
+</p>
