@@ -4,13 +4,7 @@
 
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:1E3A8A,100:3B82F6&height=240&section=header&text=Lorenzo%20Mar%C3%A7al&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Back-end%20Student%20%E2%80%A2%20Python%20%E2%80%A2%20APIs%20%E2%80%A2%20Automation&descSize=18&descAlignY=57" alt="Lorenzo Marçal — Back-end Student" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/lorenzomarcal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Lorenzo+%F0%9F%91%8B;Building+my+career+in+back-end;Python+%E2%80%A2+JavaScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;APIs%2C+security%2C+automation+%26+AI;One+commit+a+day+%F0%9F%9A%80" alt="Animated introduction" />
-  </a>
+  <img width="100%" src="./assets/header.svg" alt="GET /api/v1/developers/lorenzo → 200 OK — Lorenzo Marçal, back-end developer in training" />
 </p>
 
 <p align="center">
@@ -62,7 +56,7 @@ class Lorenzo:
   </tr>
   <tr>
     <td align="center"><b>Back-end & APIs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman&theme=dark" alt="FastAPI, Node.js, Express, Postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,postman&theme=dark" alt="Flask, FastAPI, Node.js, Express, Postman" /></td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
@@ -106,6 +100,14 @@ class Lorenzo:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/lorenzomarcal/FinanceApp">FinanceApp</a></h3>
+      <p>A personal finance organizer built with Flask — my first full back-end project, from routes to data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 Websites for local businesses</h3>
       <p>Custom websites for small businesses: a gym, a dental clinic, a car dealership and a 3D printing shop.</p>
       <p>
@@ -115,7 +117,9 @@ class Lorenzo:
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🔨 Up next: Python API</h3>
       <p>A complete REST API with authentication, a database and containers — the project that ties together everything I'm learning.</p>
       <p>
@@ -161,4 +165,7 @@ class Lorenzo:
 
 <p align="center"><i>"Every expert was once a beginner."</i> 💙</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,55:1E3A8A,100:0B1120&height=120&section=footer" alt="" />
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img width="100%" src="./assets/footer.svg" alt="Status: online · git:(main) · all checks passed" />
+</p>
