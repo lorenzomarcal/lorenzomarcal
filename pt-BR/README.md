@@ -32,7 +32,6 @@ class Lorenzo:
         self.local     = "Guarulhos-SP, Brasil"
         self.estudando = ["Python", "JavaScript", "PostgreSQL", "Docker",
                           "APIs REST", "Segurança", "Automação", "IA"]
-        self.negocio   = "Crio sites para negócios locais"
         self.objetivo  = "Construir sistemas back-end seguros e escaláveis"
 
     def lema(self):
@@ -40,7 +39,6 @@ class Lorenzo:
 ```
 
 - 🎯 **Foco atual:** dominar o back-end com **Python**, criando APIs com banco de dados **PostgreSQL** rodando em **Docker**
-- 💼 **Na prática:** já entrego **sites para negócios locais** (academia, clínica odontológica, revenda de veículos, impressão 3D)
 - ⚙️ **Interesse especial:** automação de processos e **inteligência artificial** aplicada a sistemas
 - 📫 **Fale comigo:** [lorenzomaarcal03@gmail.com](mailto:lorenzomaarcal03@gmail.com)
 
@@ -67,7 +65,7 @@ class Lorenzo:
     <td><img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode&theme=dark" alt="Docker, Linux, Git, GitHub, GitHub Actions, VS Code" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Front-end (sites)</b></td>
+    <td align="center"><b>Front-end</b></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Next.js, React, Tailwind" /></td>
   </tr>
 </table>
@@ -99,22 +97,12 @@ class Lorenzo:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>💰 <a href="https://github.com/lorenzomarcal/FinanceApp">FinanceApp</a></h3>
       <p>Controle financeiro pessoal com carteira de investimentos e cotação real da B3 — meu primeiro projeto back-end completo.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Sites para negócios locais</h3>
-      <p>Sites institucionais sob medida para pequenos negócios: academia, clínica odontológica, revenda de veículos e impressão 3D.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       </p>
     </td>
   </tr>

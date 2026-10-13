@@ -32,7 +32,6 @@ class Lorenzo:
         self.location = "Guarulhos-SP, Brazil"
         self.learning = ["Python", "JavaScript", "PostgreSQL", "Docker",
                          "REST APIs", "Security", "Automation", "AI"]
-        self.business = "I build websites for local businesses"
         self.goal     = "Build secure and scalable back-end systems"
 
     def motto(self):
@@ -40,7 +39,6 @@ class Lorenzo:
 ```
 
 - 🎯 **Current focus:** mastering back-end with **Python**, building APIs backed by **PostgreSQL** and running on **Docker**
-- 💼 **Hands-on:** I already deliver **websites for local businesses** (gym, dental clinic, car dealership, 3D printing)
 - ⚙️ **Special interest:** process automation and **artificial intelligence** applied to real systems
 - 📫 **Reach me:** [lorenzomaarcal03@gmail.com](mailto:lorenzomaarcal03@gmail.com)
 
@@ -67,7 +65,7 @@ class Lorenzo:
     <td><img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode&theme=dark" alt="Docker, Linux, Git, GitHub, GitHub Actions, VS Code" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Front-end (websites)</b></td>
+    <td align="center"><b>Front-end</b></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Next.js, React, Tailwind" /></td>
   </tr>
 </table>
@@ -99,22 +97,12 @@ class Lorenzo:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>💰 <a href="https://github.com/lorenzomarcal/FinanceApp">FinanceApp</a></h3>
       <p>Personal finance tracker with an investment portfolio and real-time B3 (Brazilian stock exchange) quotes — my first full back-end project.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Websites for local businesses</h3>
-      <p>Custom websites for small businesses: a gym, a dental clinic, a car dealership and a 3D printing shop.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       </p>
     </td>
   </tr>
